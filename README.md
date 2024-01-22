@@ -6,11 +6,6 @@ Program kullanıcı tarafında, Kullanıcı girişi, üye olma, kategorilere gö
 
 Admin tarafında ise, admin panelini görüntüleme, makale ekleme-düzenleme-silme, yorum silme, kategori ekleme-düzenleme-silme, üye ekleme-düzenleme-silme gibi yapılar içermektedir.
 
-Kullanılan veritabanı diyagramı : 
-
-
-![database]!c:\Users\HP\Desktop\BİTİRMMMMMMMMMEEEEEEEEEEE\veri tabanii.png
- 
-Bu blog sitesi [Mustafa SAĞLAM](https://github.com/mustafasaglam) 'ın video serisinden yardım alınarak hazırlanmıştır.
+Kullanılan veritabanı diyagramı : ![veritabanii](https://github.com/ayseegulkuslugil8/Bitirme_Odevi/assets/147603048/58ef3146-0801-42d2-9af4-c3944070aaf6) 
 
 
